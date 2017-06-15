@@ -198,7 +198,7 @@ public class CharacterCountGui extends Application {
     
     /*
     The charCounter method uses method recursion
-    to search any given text provided by the user
+    to search text provided by the user
     for any given character.
     */
     
